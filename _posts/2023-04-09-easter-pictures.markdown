@@ -9,6 +9,8 @@ categories: pictures update bees
 body { background-color: pink; }
 </style>
 
+link is: {% link /assets/20pc/IMG954428.jpg %}.
+
 <img src="{% link /assets/20pc/IMG954428.jpg %}" alt="Easter" width="400"/>
 
 ### Series One
