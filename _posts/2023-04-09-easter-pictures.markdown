@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Easter Pictures - Apr 9th 2023"
+title:  "Easter Pictures"
 date:   2023-04-09 14:13:00 -0400
-categories: pictures update bees
 ---
+
+categories: pictures
 
 <style>
 .borderRed10 { border-color: red; border-width: 10px; }
